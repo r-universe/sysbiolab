@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "RGraphSpace"]
+	path = RGraphSpace
+	url = https://github.com/sysbiolab/rgraphspace
